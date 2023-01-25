@@ -1,3 +1,5 @@
+//All the methods have bugs
+
 import java.util.ArrayList;
 import java.util.List;
 

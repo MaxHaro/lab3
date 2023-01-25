@@ -1,3 +1,4 @@
+// At least one of the methods in LinkedList has a bug.
 
 import java.util.NoSuchElementException;
 
